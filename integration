@@ -1,4 +1,3 @@
-  "jmping/tonalimporter",
 [
   "007hacky007/car_maintenance",
   "0jety0/emaux_spv150",
@@ -1480,6 +1479,7 @@
   "jmcollin78/vtherm_climate_replication",
   "jmcruvellier/little_monkey",
   "jmdevita/parcel-ha",
+  "jmping/tonalimporter",
   "jnalepka/grenton-objects-home-assistant",
   "jnalepka/grenton-watcher-home-assistant",
   "jnbp/t-skylt",
